@@ -8,6 +8,7 @@ From health.user_logs
 group by measure;
 
 ![1](https://user-images.githubusercontent.com/115265079/197371198-1f07fc98-ec22-4a69-8ffc-7fc913bc9c5b.jpg)
+https://github.com/ArpitKhatod/HealthCare_AnalyticsSQL.wiki.git
 
 
 -- Spread Statistics
